@@ -1626,6 +1626,16 @@ textarea.form-control {
   display: block;
 }
 
+@media screen and (max-width: 600px) {
+
+.contact-info a {
+  color: white;
+  font-size: 15px;
+  display: block;
+}
+
+}
+
 .contact-info a i {
   display: block;
   font-size: 30px;
